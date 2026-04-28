@@ -123,25 +123,48 @@
 
 	<img width="2184" height="928" alt="image" src="https://github.com/user-attachments/assets/33645d98-5536-4a20-8151-821396a46694" />
 
+5. Crear el bucket que se utilizará para el proceso de migración
+	Menú -> Storage -> Bucket
 
-5. 
-6. adasasd
-7. das
-8. adsads
-9. ads
-10. a
-11. ds
+	<img width="1683" height="576" alt="image" src="https://github.com/user-attachments/assets/cebecf45-fc48-463b-aaf6-77b85768bd8c" />
+
+
+7. Al finalizar la creación del LB, configurar FSDR
+
+	Menú -> Migration & Recovery -> Disaster Recovery
+
+	<img width="1722" height="649" alt="image" src="https://github.com/user-attachments/assets/8cb77505-f0d4-43b3-929e-e18c43810fb7" />
+
+	Selecionar
+	```
+	CAMPO				VALOR
+	==============================================
+ 	Bucket Name:	 	bucket_NOMBRE_FSDR_stgo
+	Bucket Scope:		Namespace
+ 	```
+ 	Luego click en Create bucket
+
+	<img width="2170" height="935" alt="image" src="https://github.com/user-attachments/assets/bc17b3ec-5fd1-435d-83d8-0a471ef3d6d0" />
+
+
+8. 
+9. adasasd
+10. das
+11. adsads
 12. ads
-13. ads
-14. dsa
+13. a
+14. ds
 15. ads
-16. ds
-17. a
+16. ads
+17. dsa
 18. ads
-19. das
-20. dsa
+19. ds
+20. a
 21. ads
-22. dsa
-23. 
+22. das
+23. dsa
+24. ads
+25. dsa
+26. 
 
 
