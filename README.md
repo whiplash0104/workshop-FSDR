@@ -32,9 +32,12 @@
 	
  	<img width="1918" height="499" alt="image" src="https://github.com/user-attachments/assets/e10466bf-41fc-41c0-8a61-5e8102b7f09b" />
 
-Para cambiar de región se debe selecionar se deben desplegar desde el apartado de regiones
+	Para cambiar de región se debe selecionar se deben desplegar desde el apartado de regiones
 
-1. Crear VCN en cada región
+	<img width="809" height="337" alt="image" src="https://github.com/user-attachments/assets/1783c98e-48fb-43fd-9ee9-c947f096b154" />
+
+
+1. Crear VCN en cada región, en ambas VCN dejar los mismos rangos de IP que vienen por default
 	Santiago:
 	Menú -> Networking -> VNC -> Action -> Start VCN Wizard -> Create VCN with Internet Connectivity -> Start VCN Wizard
 	```
