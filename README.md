@@ -146,25 +146,68 @@
 
 	<img width="2170" height="935" alt="image" src="https://github.com/user-attachments/assets/bc17b3ec-5fd1-435d-83d8-0a471ef3d6d0" />
 
+	Este precedimiento se debe realizar también en la región de Valparaíso
+	
+	Selecionar
+	```
+	CAMPO				VALOR
+	==============================================
+ 	Bucket Name:	 	bucket_NOMBRE_FSDR_valpo
+	Bucket Scope:		Namespace
+ 	```
+ 	Luego click en Create bucket
 
-8. 
-9. adasasd
-10. das
-11. adsads
-12. ads
-13. a
-14. ds
+9. Crear Protection Group
+	Menú -> Migration & Recovery -> Disaster Recovery
+
+	<img width="1781" height="665" alt="image" src="https://github.com/user-attachments/assets/8e3b4b6d-d151-4228-bb19-04e46e881023" />
+
+	Selecionar
+	```
+	CAMPO				VALOR
+	==============================================
+ 	Name:			 	DRG_NOMBRE_stgo
+	Bucket:				bucket_NOMBRE_FSDR_stgo
+ 	Role:				Not configured
+ 	```
+ 	Luego click en Create	
+
+	<img width="2170" height="928" alt="image" src="https://github.com/user-attachments/assets/3fed689f-3785-4bdb-824c-9bd5753a1c97" />
+
+	Este mismo proceso se debe realizar en la región de Valparaíso
+
+	Selecionar
+	```
+	CAMPO				VALOR
+	==============================================
+ 	Name:			 	DRG_NOMBRE_valpo
+	Bucket:				bucket_NOMBRE_FSDR_stgo
+ 	Role:				Not configured
+ 	```
+ 	Luego click en Create	
+
+10. Una vez creados los DR group, se debe configurar el peer entre ellos
+
+	Entrar al 
+
+11. 
+12. adasasd
+13. das
+14. adsads
 15. ads
-16. ads
-17. dsa
+16. a
+17. ds
 18. ads
-19. ds
-20. a
+19. ads
+20. dsa
 21. ads
-22. das
-23. dsa
+22. ds
+23. a
 24. ads
-25. dsa
-26. 
+25. das
+26. dsa
+27. ads
+28. dsa
+29. 
 
 
