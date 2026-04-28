@@ -43,8 +43,8 @@
 	```
 	CAMPO				VALOR
 	==============================================
- 	Name:	 			VCN_stgo
- 	Compartment:		FSDR_stgo
+ 	Name:	 			VCN_NOMRE_stgo
+ 	Compartment:		FSDR_NOMRE_stgo
  	```
 
  	Valparaíso:
@@ -52,8 +52,8 @@
 	```
 	CAMPO				VALOR
 	==============================================
- 	Name:	 			VCN_valpo
- 	Compartment:		FSDR_valpo
+ 	Name:	 			VCN_NOMRE_valpo
+ 	Compartment:		FSDR_NOMRE_valpo
  	```
 	<img width="1542" height="828" alt="image" src="https://github.com/user-attachments/assets/26c96506-7cf7-4f49-9c02-287975833775" />
 
@@ -65,7 +65,37 @@
 
 
 
-3. 
+2. Una vez creadas las VCN en la región de *Santiago*, crear una VM dentro del compartment FDSR_NOMBRE_stgo
+	Compute -> Instances -> Create Instance
+	<img width="1195" height="758" alt="image" src="https://github.com/user-attachments/assets/55e0d8b5-d332-49df-8902-d05e4d9d8947" />
+	
+	```
+	CAMPO				VALOR
+	==============================================
+ 	Name:	 			instancia_NOMBRE_stgo
+ 	Compartment:		FSDR_NOMRE_stgo
+ 	Shape: 				AMD, VM.Standard.E5.Flex
+ 	```
+   Dejar todo el resto sin cambios y Next
+
+	<img width="2178" height="955" alt="image" src="https://github.com/user-attachments/assets/87ca8107-762a-4c91-833e-6f09e15db112" />
+
+	```
+	CAMPO				VALOR
+	==============================================
+ 	VNIC:	 			vnic_instancia_NOMBRE_stgo
+	Subnet				private subnet-VCN_NOMBRE_stgo
+ 	```
+   Validar que el compartment sea FSDR_NOMRE_stgo, que la VCN sea VCN_NOMBRE_stgo y la subnet
+   Descargar las llaves ssh privada y opública, luego Next, Next y Create
+
+
+	<img width="1724" height="924" alt="image" src="https://github.com/user-attachments/assets/49630827-8df4-47d2-afab-9e8892db3644" />
+
+	<<img width="2169" height="920" alt="image" src="https://github.com/user-attachments/assets/0f4f1152-a20c-4efa-8fa4-2860a2cbdb5a" />
+
+	<img width="1309" height="453" alt="image" src="https://github.com/user-attachments/assets/0eb73fa0-e638-48b8-b520-25dd0ca7ae21" />
+
 4. das
 5. das
 6. adsads
