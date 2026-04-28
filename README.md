@@ -32,26 +32,54 @@
 	
  	<img width="1918" height="499" alt="image" src="https://github.com/user-attachments/assets/e10466bf-41fc-41c0-8a61-5e8102b7f09b" />
 
+Para cambiar de región se debe selecionar se deben desplegar desde el apartado de regiones
+
+1. Crear VCN en cada región
+	Santiago:
+	Menú -> Networking -> VNC -> Action -> Start VCN Wizard -> Create VCN with Internet Connectivity -> Start VCN Wizard
+	```
+	CAMPO				VALOR
+	==============================================
+ 	Name:	 			VCN_stgo
+ 	Compartment:		FSDR_stgo
+ 	```
+
+ 	Valparaíso:
+	Menú -> Networking -> VNC -> Action -> Start VCN Wizard -> Create VCN with Internet Connectivity -> Start VCN Wizard
+	```
+	CAMPO				VALOR
+	==============================================
+ 	Name:	 			VCN_valpo
+ 	Compartment:		FSDR_valpo
+ 	```
+	<img width="1542" height="828" alt="image" src="https://github.com/user-attachments/assets/26c96506-7cf7-4f49-9c02-287975833775" />
+
+	<img width="1215" height="555" alt="image" src="https://github.com/user-attachments/assets/0f8fc60a-a757-49e4-b113-a4fff124302c" />
+
+	<img width="1736" height="920" alt="image" src="https://github.com/user-attachments/assets/02de7989-3446-454f-9e9d-add76be68f5c" />
+
+	<img width="965" height="693" alt="image" src="https://github.com/user-attachments/assets/44da6f27-5b70-4d6c-b4d5-2dd8e22f0bf7" />
 
 
-1. das
-2. das
-3. das
-4. adsads
-5. ads
-6. a
-7. ds
-8. ads
-9. ads
-10. dsa
+
+3. 
+4. das
+5. das
+6. adsads
+7. ads
+8. a
+9. ds
+10. ads
 11. ads
-12. ds
-13. a
-14. ads
-15. das
-16. dsa
-17. ads
+12. dsa
+13. ads
+14. ds
+15. a
+16. ads
+17. das
 18. dsa
-19. 
+19. ads
+20. dsa
+21. 
 
 
