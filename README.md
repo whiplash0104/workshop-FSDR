@@ -14,7 +14,8 @@
 	Name		 		        FSDR_NOMBRE_stgo     
 	Description 			  FSDR_NOMBRE
 	Parent Compartment 	XXXX (root)
-
+	```
+ 
 	Valparaíso
  	Menu -> Identity & Security -> Compartmente -> New Compartment
 	```
