@@ -64,7 +64,6 @@
 	<img width="965" height="693" alt="image" src="https://github.com/user-attachments/assets/44da6f27-5b70-4d6c-b4d5-2dd8e22f0bf7" />
 
 
-
 2. Una vez creadas las VCN en la región de *Santiago*, crear una VM dentro del compartment FDSR_NOMBRE_stgo
 	Compute -> Instances -> Create Instance
 	<img width="1195" height="758" alt="image" src="https://github.com/user-attachments/assets/55e0d8b5-d332-49df-8902-d05e4d9d8947" />
@@ -90,29 +89,59 @@
 	Subnet				private subnet-VCN_NOMBRE_stgo
  	```
    Validar que el compartment sea FSDR_NOMRE_stgo, que la VCN sea VCN_NOMBRE_stgo y la subnet
-   Descargar las llaves ssh privada y opública, luego Next, Next y Create
+   Descargar las llaves ssh privada y pública, luego Next, Next y Create
 
 	<<img width="2169" height="920" alt="image" src="https://github.com/user-attachments/assets/0f4f1152-a20c-4efa-8fa4-2860a2cbdb5a" />
 
 	<img width="1309" height="453" alt="image" src="https://github.com/user-attachments/assets/0eb73fa0-e638-48b8-b520-25dd0ca7ae21" />
 
-4. das
-5. das
-6. adsads
-7. ads
-8. a
-9. ds
-10. ads
-11. ads
-12. dsa
+3. Crear Load Balancer
+	Menú -> Networking -> Load balancer -> Create load balancer
+	<img width="1579" height="683" alt="image" src="https://github.com/user-attachments/assets/5159c7be-d0fe-46ba-97e8-0d6fc9e4855c" />
+
+	Selecionar
+	```
+	CAMPO				VALOR
+	==============================================
+ 	VCN:	 			VCN_NOMBRE_stgo
+	Subnet				public subnet-VCN_NOMBRE_stgo
+ 	```
+	<img width="2163" height="617" alt="image" src="https://github.com/user-attachments/assets/47242896-ca6c-4dcd-a1ce-1cc72bf0657e" />
+
+	Selecionar la instancia creada como backend
+
+	<img width="2175" height="997" alt="image" src="https://github.com/user-attachments/assets/f702ee33-be37-4529-b3f6-07579b420c7a" />
+
+	Cambiar el protocolo a HTTP y dar click en next
+	<img width="1354" height="617" alt="image" src="https://github.com/user-attachments/assets/66efd143-cbcc-4b51-9aea-1c7dfde271e4" />
+
+	Deshabilitar los logs de error y click en next
+
+	<img width="1344" height="736" alt="image" src="https://github.com/user-attachments/assets/ef87d16f-351f-46d4-a75b-87dfaeec7111" />
+
+	Revisar los detalles finales y click en Submit
+
+	<img width="2184" height="928" alt="image" src="https://github.com/user-attachments/assets/33645d98-5536-4a20-8151-821396a46694" />
+
+
+5. 
+6. adasasd
+7. das
+8. adsads
+9. ads
+10. a
+11. ds
+12. ads
 13. ads
-14. ds
-15. a
-16. ads
-17. das
-18. dsa
-19. ads
+14. dsa
+15. ads
+16. ds
+17. a
+18. ads
+19. das
 20. dsa
-21. 
+21. ads
+22. dsa
+23. 
 
 
