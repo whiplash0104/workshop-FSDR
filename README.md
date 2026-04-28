@@ -80,6 +80,9 @@
 
 	<img width="2178" height="955" alt="image" src="https://github.com/user-attachments/assets/87ca8107-762a-4c91-833e-6f09e15db112" />
 
+	<img width="1724" height="924" alt="image" src="https://github.com/user-attachments/assets/49630827-8df4-47d2-afab-9e8892db3644" />
+
+
 	```
 	CAMPO				VALOR
 	==============================================
@@ -88,9 +91,6 @@
  	```
    Validar que el compartment sea FSDR_NOMRE_stgo, que la VCN sea VCN_NOMBRE_stgo y la subnet
    Descargar las llaves ssh privada y opública, luego Next, Next y Create
-
-
-	<img width="1724" height="924" alt="image" src="https://github.com/user-attachments/assets/49630827-8df4-47d2-afab-9e8892db3644" />
 
 	<<img width="2169" height="920" alt="image" src="https://github.com/user-attachments/assets/0f4f1152-a20c-4efa-8fa4-2860a2cbdb5a" />
 
