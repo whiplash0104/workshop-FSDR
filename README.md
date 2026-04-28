@@ -188,10 +188,29 @@
 
 10. Una vez creados los DR group, se debe configurar el peer entre ellos
 
-	Entrar al 
+	Entrar al DRG -> Action -> Associate
+	<img width="1915" height="671" alt="image" src="https://github.com/user-attachments/assets/4f977956-0a8c-4a4f-b280-9047e40d04f7" />
 
-11. 
-12. adasasd
+	En el DRG de Santiago definir:
+	```
+	CAMPO				VALOR
+	==============================================
+ 	Role:			 	Primary
+	Peer Region:		Chile West (Valparaiso)
+ 	Peer compartment:	FSDR_valpo
+ 	Peer DR Group:		DRG_valpo
+ 	```
+ 	Click en Associate
+ 
+	<img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/38b71268-3870-4892-a3a2-437bf9c508d9" />
+
+12. Dentro del DRG de Santiago, hacer click en la pestaña Members y Manage members
+
+	<img width="1913" height="727" alt="image" src="https://github.com/user-attachments/assets/98881d19-4fef-4e52-a9c2-58b5ef420d1c" />
+
+
+	
+
 13. das
 14. adsads
 15. ads
