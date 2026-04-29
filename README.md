@@ -95,7 +95,33 @@
 
 	<img width="1309" height="453" alt="image" src="https://github.com/user-attachments/assets/0eb73fa0-e638-48b8-b520-25dd0ca7ae21" />
 
-3. Crear Load Balancer
+	Una vez creada la instancia, crear un Volume Group en el cual se asignará el boot volume
+
+	<img width="1477" height="668" alt="image" src="https://github.com/user-attachments/assets/77055e4a-a630-47a9-8f15-b82e8611d197" />
+
+	Click en Create Volñume Group
+	```
+	CAMPO				VALOR
+	==============================================
+ 	Name:	 			DRP_NOMBRE_VG
+ 	Compartment:		FSDR_NOMRE_stgo
+ 	AD:					sveH:SA-SANTIAGO-1-AD-1 
+ 	```
+   Dejar todo el resto sin cambios y Next
+
+	<img width="2149" height="932" alt="image" src="https://github.com/user-attachments/assets/a5cc7d96-38dd-4d7d-8941-ba5682eb64a2" />
+
+	Selecionar como Cpg All y agregar el volumen, luego click en Next
+
+	<img width="1496" height="362" alt="image" src="https://github.com/user-attachments/assets/d32060ac-fb94-426e-9fbd-73922d543b45" />
+
+	Habilitar Cross region replication y definir la región de Valparaíso
+
+	<img width="2139" height="760" alt="image" src="https://github.com/user-attachments/assets/f1798bdd-3806-4111-b46d-fb38ec88929e" />
+
+	Dejar el resto de campos sin modificar y click en Next y Create
+
+4. Crear Load Balancer
 	Menú -> Networking -> Load balancer -> Create load balancer
 	<img width="1579" height="683" alt="image" src="https://github.com/user-attachments/assets/5159c7be-d0fe-46ba-97e8-0d6fc9e4855c" />
 
@@ -250,10 +276,18 @@
 
 	<<img width="1720" height="827" alt="image" src="https://github.com/user-attachments/assets/6078d916-40cb-4739-960b-c296972cf6f4" />
 
+	Selecionar Storage y Colume group
+
+	<img width="1097" height="707" alt="image" src="https://github.com/user-attachments/assets/cb797aa7-0faa-4f5c-a648-511221700acc" />
+
+	Selecionarl el volumen group creado y dejar como Backup Destination policy None
+	
+	<img width="1719" height="930" alt="image" src="https://github.com/user-attachments/assets/b948d4c6-7fbb-46b7-ada6-53678a0d2b1e" />
+
 	Finalmente click en Publish
 
 
-15. En el DRG de Valparaíso, desde la segunda pestaña se debe crear el Plan, luego click en Create Plan
+16. En el DRG de Valparaíso, desde la segunda pestaña se debe crear el Plan, luego click en Create Plan
 
 	<img width="1932" height="784" alt="image" src="https://github.com/user-attachments/assets/27ffe8bf-4baf-4e43-8918-76ec1011d429" />
 
@@ -269,27 +303,27 @@
 	<img width="2162" height="824" alt="image" src="https://github.com/user-attachments/assets/bfd82e6d-71cc-42bc-9f1d-a33df0979e8c" />
 
 
-16. 
+17. 
 	
 
 
-17. 
-18.  
-19. adsads
-20. ads
-21. a
-22. ds
-23. ads
+18. 
+19.  
+20. adsads
+21. ads
+22. a
+23. ds
 24. ads
-25. dsa
-26. ads
-27. ds
-28. a
-29. ads
-30. das
-31. dsa
-32. ads
-33. dsa
-34. 
+25. ads
+26. dsa
+27. ads
+28. ds
+29. a
+30. ads
+31. das
+32. dsa
+33. ads
+34. dsa
+35. 
 
 
