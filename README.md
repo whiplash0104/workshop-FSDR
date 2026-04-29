@@ -250,25 +250,46 @@
 
 	<<img width="1720" height="827" alt="image" src="https://github.com/user-attachments/assets/6078d916-40cb-4739-960b-c296972cf6f4" />
 
-	
+	Finalmente click en Publish
+
+
+15. En el DRG de Valparaíso, desde la segunda pestaña se debe crear el Plan, luego click en Create Plan
+
+	<img width="1932" height="784" alt="image" src="https://github.com/user-attachments/assets/27ffe8bf-4baf-4e43-8918-76ec1011d429" />
+
+	Definir
+	```
+	CAMPO				VALOR
+	==============================================
+ 	Name:			 	DRP_NOMBRE_valpo
+	Plan Type:			Switchover (planned)
+ 	```
+ 	Click en Create
+
+	<img width="2162" height="824" alt="image" src="https://github.com/user-attachments/assets/bfd82e6d-71cc-42bc-9f1d-a33df0979e8c" />
 
 
 16. 
-17. adsads
-18. ads
-19. a
-20. ds
-21. ads
-22. ads
-23. dsa
+	
+
+
+17. 
+18.  
+19. adsads
+20. ads
+21. a
+22. ds
+23. ads
 24. ads
-25. ds
-26. a
-27. ads
-28. das
-29. dsa
-30. ads
+25. dsa
+26. ads
+27. ds
+28. a
+29. ads
+30. das
 31. dsa
-32. 
+32. ads
+33. dsa
+34. 
 
 
