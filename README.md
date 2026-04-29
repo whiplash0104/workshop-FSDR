@@ -289,7 +289,7 @@
 
 16. En el DRG de Valparaíso agregar el LB de Valparaíso como miembro
 
-Hacer click en Add member y selecionar Networking -> Load Balancer
+	Hacer click en Add member y selecionar Networking -> Load Balancer
 
 	<img width="1739" height="940" alt="image" src="https://github.com/user-attachments/assets/208a321b-3026-49e2-899d-b1fce9a84710" />
 
