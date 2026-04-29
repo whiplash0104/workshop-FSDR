@@ -341,25 +341,11 @@
  
 	<img width="1730" height="938" alt="image" src="https://github.com/user-attachments/assets/ae7a5548-1044-4327-b219-32165a9ba7eb" />
 
+21. Una vez finalizado el procedimiento se podrá ver la instancia en Santiago apagada y el Valparaíso encendida
 
-21. 
-
-22.  
-23. adsads
-24. ads
-25. a
-26. ds
-27. ads
-28. ads
-29. dsa
-30. ads
-31. ds
-32. a
-33. ads
-34. das
-35. dsa
-36. ads
-37. dsa
-38. 
+	Santiago
+	<img width="1916" height="586" alt="image" src="https://github.com/user-attachments/assets/57a3c549-6890-47d0-808d-11a6196cee11" />
 
 
+	Valparaíso
+	<img width="1921" height="564" alt="image" src="https://github.com/user-attachments/assets/c038f06f-74ce-41c3-ac3c-5be4e22aaefb" />
