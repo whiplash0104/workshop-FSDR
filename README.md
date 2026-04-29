@@ -208,25 +208,49 @@
 
 	<img width="1913" height="727" alt="image" src="https://github.com/user-attachments/assets/98881d19-4fef-4e52-a9c2-58b5ef420d1c" />
 
+	Hacer click en Add member y selecionar Compute -> Instance dentro de Resource type 
 
+	<img width="2188" height="998" alt="image" src="https://github.com/user-attachments/assets/70e747d7-3756-468b-a53f-882f4f6e9333" />
+
+	Buscar la instancia creada y agregarla
 	
+	<img width="1290" height="596" alt="image" src="https://github.com/user-attachments/assets/397661d1-abc5-4a70-b627-c935191d31ad" />
 
-13. das
-14. adsads
-15. ads
-16. a
-17. ds
-18. ads
+	Luego hacer click en Add VNIC mapping
+
+	<img width="1295" height="413" alt="image" src="https://github.com/user-attachments/assets/79c57917-b79e-4e15-a562-d433320f6535" />
+
+	Selecionar la vnic y subnets que correspondan
+	```
+	CAMPO				VALOR
+	==============================================
+ 	VNIC:			 	vnic_instancia_stgo
+	Dest. Compartment:	FSDR_valpo
+ 	Destination VCN:	VCN_valpo
+ 	Dest. compartment: 	private subnet-VCN_valpo (regional)
+ 	Dest IP: 			La ip de la instancia creada
+ 	```
+ 	Click en Add
+
+	<img width="1740" height="931" alt="image" src="https://github.com/user-attachments/assets/c8f273eb-5781-431e-ae11-d0a7972d5978" />
+
+
+14. das
+15. adsads
+16. ads
+17. a
+18. ds
 19. ads
-20. dsa
-21. ads
-22. ds
-23. a
-24. ads
-25. das
-26. dsa
-27. ads
-28. dsa
-29. 
+20. ads
+21. dsa
+22. ads
+23. ds
+24. a
+25. ads
+26. das
+27. dsa
+28. ads
+29. dsa
+30. 
 
 
