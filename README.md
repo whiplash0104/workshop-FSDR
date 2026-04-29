@@ -287,9 +287,18 @@
 	Finalmente click en Publish
 
 
-16. En el DRG de Valparaíso, desde la segunda pestaña se debe crear el Plan, luego click en Create Plan
+16. En el DRG de Valparaíso agregar el LB de Valparaíso como miembro
 
-	<img width="1932" height="784" alt="image" src="https://github.com/user-attachments/assets/27ffe8bf-4baf-4e43-8918-76ec1011d429" />
+Hacer click en Add member y selecionar Networking -> Load Balancer
+
+	<img width="1739" height="940" alt="image" src="https://github.com/user-attachments/assets/208a321b-3026-49e2-899d-b1fce9a84710" />
+
+	Mapear el LB y el backendset de Santiago con los de Valparaíso. 
+
+	<img width="1548" height="794" alt="image" src="https://github.com/user-attachments/assets/586b9762-65da-4114-882a-4afed9c95f91" />
+
+
+	Luego, desde la segunda pestaña se debe crear el Plan, luego click en Create Plan
 
 	Definir
 	```
@@ -302,6 +311,7 @@
 
 	<img width="2162" height="824" alt="image" src="https://github.com/user-attachments/assets/bfd82e6d-71cc-42bc-9f1d-a33df0979e8c" />
 
+	
 
 17. 
 	
