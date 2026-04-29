@@ -311,29 +311,33 @@
 
 	<img width="2162" height="824" alt="image" src="https://github.com/user-attachments/assets/bfd82e6d-71cc-42bc-9f1d-a33df0979e8c" />
 
+17. Una vez que el plan esté creado, se debe ejecutar la tarea de precheck
+
+	Click en Actions -> Run precheck
+	<img width="1912" height="630" alt="image" src="https://github.com/user-attachments/assets/39855da6-c29f-4ea1-ad19-035b1dbbaabe" />
+
+	Definir un nombre para la ejecución y click en Run precheck
 	
-
-17. 
-	
+	<img width="1732" height="939" alt="image" src="https://github.com/user-attachments/assets/7b51a609-dc95-441d-9b5b-385a3e67579a" />
 
 
-18. 
-19.  
-20. adsads
-21. ads
-22. a
-23. ds
-24. ads
+19. 
+20.  
+21. adsads
+22. ads
+23. a
+24. ds
 25. ads
-26. dsa
-27. ads
-28. ds
-29. a
-30. ads
-31. das
-32. dsa
-33. ads
-34. dsa
-35. 
+26. ads
+27. dsa
+28. ads
+29. ds
+30. a
+31. ads
+32. das
+33. dsa
+34. ads
+35. dsa
+36. 
 
 
