@@ -128,6 +128,7 @@
 
 	<img width="1683" height="576" alt="image" src="https://github.com/user-attachments/assets/cebecf45-fc48-463b-aaf6-77b85768bd8c" />
 
+	Repetir la misma creación en Valparaíso, pero sin asignar backend
 
 7. Al finalizar la creación del LB, configurar FSDR
 
@@ -234,23 +235,40 @@
 
 	<img width="1740" height="931" alt="image" src="https://github.com/user-attachments/assets/c8f273eb-5781-431e-ae11-d0a7972d5978" />
 
+	Finalmente click en Add
 
-14. das
-15. adsads
-16. ads
-17. a
-18. ds
-19. ads
-20. ads
-21. dsa
+	<img width="1724" height="929" alt="image" src="https://github.com/user-attachments/assets/5d965597-fa6a-4593-92e0-fc356d35acb0" />
+
+
+14. Una vez finalizado el proceso de agragar la instancia, se debe agregar el LB
+
+	Hacer click en Add member y selecionar Networking -> Load Balancer
+
+	<img width="1739" height="940" alt="image" src="https://github.com/user-attachments/assets/208a321b-3026-49e2-899d-b1fce9a84710" />
+
+	Mapear el LB y el backendset de Santiago con los de Valparaíso. Importante validar los compartmente que correspondan, luiego click en Add 
+
+	<<img width="1720" height="827" alt="image" src="https://github.com/user-attachments/assets/6078d916-40cb-4739-960b-c296972cf6f4" />
+
+	
+
+
+16. 
+17. adsads
+18. ads
+19. a
+20. ds
+21. ads
 22. ads
-23. ds
-24. a
-25. ads
-26. das
-27. dsa
-28. ads
+23. dsa
+24. ads
+25. ds
+26. a
+27. ads
+28. das
 29. dsa
-30. 
+30. ads
+31. dsa
+32. 
 
 
