@@ -149,12 +149,13 @@
 
 	<img width="2184" height="928" alt="image" src="https://github.com/user-attachments/assets/33645d98-5536-4a20-8151-821396a46694" />
 
+	Repetir la misma creación en Valparaíso, pero sin asignar backend
+
 5. Crear el bucket que se utilizará para el proceso de migración
 	Menú -> Storage -> Bucket
 
 	<img width="1683" height="576" alt="image" src="https://github.com/user-attachments/assets/cebecf45-fc48-463b-aaf6-77b85768bd8c" />
 
-	Repetir la misma creación en Valparaíso, pero sin asignar backend
 
 7. Al finalizar la creación del LB, configurar FSDR
 
@@ -320,24 +321,45 @@
 	
 	<img width="1732" height="939" alt="image" src="https://github.com/user-attachments/assets/7b51a609-dc95-441d-9b5b-385a3e67579a" />
 
+19. Una vez que veamos que las tareas de precheck se ejecutaron de forma correcta, se debe realizar la ejecución del DRP
+	
+	Click en Actions -> Execute Plan
 
-19. 
-20.  
-21. adsads
-22. ads
-23. a
-24. ds
-25. ads
-26. ads
-27. dsa
+	<img width="1910" height="771" alt="image" src="https://github.com/user-attachments/assets/1b4a9fb0-f025-4367-af14-44244449a124" />
+
+	Definir
+	```
+	CAMPO				VALOR
+	==============================================
+ 	DR plan:			DRP_valpo
+	Plan Type:			Switchover (planned)
+ 	Plan Execution:		Ejecucion DRP
+
+ 	Enable precheck:	Habilitar
+ 	Ignore Warnings:	Habilitar
+ 	```
+ 
+	<img width="1730" height="938" alt="image" src="https://github.com/user-attachments/assets/ae7a5548-1044-4327-b219-32165a9ba7eb" />
+
+
+21. 
+
+22.  
+23. adsads
+24. ads
+25. a
+26. ds
+27. ads
 28. ads
-29. ds
-30. a
-31. ads
-32. das
-33. dsa
-34. ads
+29. dsa
+30. ads
+31. ds
+32. a
+33. ads
+34. das
 35. dsa
-36. 
+36. ads
+37. dsa
+38. 
 
 
